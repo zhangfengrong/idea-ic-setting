@@ -1,0 +1,23 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:/Work/apache-maven-3.6.1" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\fengr\AppData\Roaming\Subversion</configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
