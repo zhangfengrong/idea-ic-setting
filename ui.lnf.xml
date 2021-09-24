@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
   </component>
 </application>
