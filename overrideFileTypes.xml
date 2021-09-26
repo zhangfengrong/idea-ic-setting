@@ -1,6 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Work/Projects/yyy/e-medclouds-server/medclouds-server/src/main/resources/MD2FileTeamplate/任务详情-VISIT.ftl" value="FreeMarker" />
-    <file url="file://$USER_HOME$/Work/Projects/yyy/e-medclouds-server/medclouds-server/src/main/resources/MD2FileTeamplate/任务详情.ftl" value="textmate" />
+    <file url="file://$USER_HOME$/Work/Projects/yyy/e-medclouds-server/medclouds-server/src/main/resources/MD2FileTeamplate/任务详情.ftl" value="reset" />
   </component>
 </application>
