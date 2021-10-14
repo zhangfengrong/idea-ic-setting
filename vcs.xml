@@ -38,6 +38,10 @@
           <option name="url" value="https://zhangfengrong_yyy:11240zhangfr@codeup.aliyun.com/5f45ce70d24814603933bc3a/e-medclouds-group/e-medclouds-support.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://zhangfengrong_yyy:11240zhangfr@codeup.aliyun.com/5f45ce70d24814603933bc3a/e-medclouds-group/e-medclouds-grey.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Work/Projects/yyy" />
