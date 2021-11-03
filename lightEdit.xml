@@ -2,8 +2,12 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file:///e-medclouds-otc" />
+        <option value="file://$USER_HOME$/Desktop/RemoteTaskDetailBizImpl.java" />
       </list>
     </option>
+    <option name="frameInfo">
+      <frame x="20" y="45" width="1400" height="835" />
+    </option>
+    <option name="preferredMode" value="LightEdit" />
   </component>
 </application>
