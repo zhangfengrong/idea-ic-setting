@@ -1,18 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replace All Special Symbol" />
+      <item value="create Doc File" />
+      <item value="Plan Report Biz Of Create Tradition File" />
+      <item value="task Detail Service" />
+      <item value="plan Service" />
+      <item value="user Center Client" />
+      <item value="plan Report Biz Of Tools" />
+      <item value="plan Report Biz Of Insert Doc" />
+      <item value="Medclouds Server Test Runner" />
+      <item value="Plan Report Biz Of Create Tradition File Test" />
       <item value="task Apply Pass Or Reject" />
       <item value="task Apply List" />
       <item value="Medicine Agent Task Apply Pass Reject Req Dto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631606987605" />
+    <option name="lastTrimTime" value="1636683094005" />
   </component>
 </application>
