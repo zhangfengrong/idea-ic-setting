@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Questionnaire QR Code" />
+      <item value="generate Questionnaire QR Code Without Auth Status" />
       <item value="syntax error, expect {, actual string, pos 2272, fastjson-version 1.2.76" />
       <item value="前缀" />
       <item value="Meeting" />
@@ -24,12 +26,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637117938821" />
+    <option name="lastTrimTime" value="1637732299278" />
   </component>
 </application>
