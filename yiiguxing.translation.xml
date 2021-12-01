@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="最早" />
+      <item value="clear" />
+      <item value="XECUTING" />
+      <item value="剩余" />
+      <item value="保留" />
+      <item value="period Of Need Delete" />
+      <item value="period Of Need Del" />
+      <item value="存在" />
       <item value="replace Tmp Url To Public Of Rich Text" />
       <item value="generate Questionnaire QR Code" />
       <item value="generate Questionnaire QR Code Without Auth Status" />
@@ -27,12 +35,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637732299278" />
+    <option name="lastTrimTime" value="1638350675081" />
   </component>
 </application>
