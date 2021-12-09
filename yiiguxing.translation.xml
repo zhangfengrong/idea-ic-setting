@@ -1,13 +1,18 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="-610" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remainder" />
+      <item value="剩余" />
       <item value="Sensitive Word" />
       <item value="export" />
       <item value="未开始" />
       <item value="最早" />
       <item value="clear" />
       <item value="XECUTING" />
-      <item value="剩余" />
       <item value="保留" />
       <item value="period Of Need Delete" />
       <item value="period Of Need Del" />
@@ -38,12 +43,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638350675081" />
+    <option name="lastTrimTime" value="1639015005601" />
   </component>
 </application>
