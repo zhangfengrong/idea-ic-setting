@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="-610" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="后缀" />
+      <item value="Folder" />
+      <item value="replece" />
+      <item value="replace" />
       <item value="End With" />
       <item value="Absent" />
       <item value="obtain" />
@@ -46,8 +50,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="39" />
+        <entry key="CATALAN" value="4" />
       </map>
     </option>
   </component>
