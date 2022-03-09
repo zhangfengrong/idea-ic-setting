@@ -1,0 +1,7 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Work/Projects/yyy/e-medclouds-server/medclouds-server/src/main/resources/MD2FileTeamplate/任务详情-REPRESENT.ftl" />
+    <file url="file://$USER_HOME$/Work/Projects/yyy/e-medclouds-server/medclouds-server/src/main/resources/MD2FileTeamplate/任务详情-TASK-TYPE.ftl" />
+    <file url="file://$USER_HOME$/Work/Projects/yyy/e-medclouds-server/medclouds-server/src/main/resources/MD2FileTeamplate/任务详情-VISIT.ftl" value="textmate" />
+  </component>
+</application>
