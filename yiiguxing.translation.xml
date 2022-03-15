@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="-610" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="task Type" />
+      <item value="Objects" />
+      <item value="get Task Template" />
       <item value="headless" />
       <item value="迁移异常文件&#10;" />
       <item value="迁移异常文件" />
@@ -53,13 +56,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="CATALAN" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639968722198" />
+    <option name="lastTrimTime" value="1647314397551" />
   </component>
 </application>
