@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-610" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Transition" />
       <item value="重复" />
       <item value="task Type" />
       <item value="Objects" />
@@ -58,12 +59,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CATALAN" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647314397551" />
+    <option name="lastTrimTime" value="1648175010931" />
   </component>
 </application>
