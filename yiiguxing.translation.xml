@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-610" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="preview" />
       <item value="Transition" />
       <item value="重复" />
       <item value="task Type" />
@@ -54,17 +55,16 @@
       <item value="Plan Report Biz Of Create Tradition File Test" />
       <item value="task Apply Pass Or Reject" />
       <item value="task Apply List" />
-      <item value="Medicine Agent Task Apply Pass Reject Req Dto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="CATALAN" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648175010931" />
+    <option name="lastTrimTime" value="1648625027504" />
   </component>
 </application>
