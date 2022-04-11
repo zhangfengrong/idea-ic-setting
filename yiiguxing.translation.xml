@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="-610" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DISEASE" />
+      <item value="COMMENTS MIDDLE" />
+      <item value="COMMENTS GOOD" />
       <item value="MANAGE" />
       <item value="CUSTOMER MANA Ger" />
       <item value="add Or Edit" />
@@ -52,14 +55,11 @@
       <item value="create Doc File" />
       <item value="Plan Report Biz Of Create Tradition File" />
       <item value="task Detail Service" />
-      <item value="plan Service" />
-      <item value="user Center Client" />
-      <item value="plan Report Biz Of Tools" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
