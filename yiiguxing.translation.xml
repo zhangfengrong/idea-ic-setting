@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-610" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="drugstore clerk" />
       <item value="Pharmacy" />
       <item value="preview" />
       <item value="Transition" />
@@ -54,12 +55,11 @@
       <item value="plan Report Biz Of Insert Doc" />
       <item value="Medclouds Server Test Runner" />
       <item value="Plan Report Biz Of Create Tradition File Test" />
-      <item value="task Apply Pass Or Reject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="CATALAN" value="4" />
       </map>
     </option>
