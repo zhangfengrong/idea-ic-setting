@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="594" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Param" />
       <item value="pop" />
       <item value="Declared" />
       <item value="All Analysed" />
@@ -52,11 +53,10 @@
       <item value="singleton List" />
       <item value="hospital name max length" />
       <item value="PRODUCT DOCTOR EDUCATION" />
-      <item value="PRODUCT PROFESSIONAL SHARE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
+        <entry key="CHINESE" value="57" />
         <entry key="ENGLISH" value="57" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
