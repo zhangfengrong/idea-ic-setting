@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="471" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="change the path of customer add" />
       <item value="is Short Message Frequency" />
       <item value="providers" />
       <item value="transform" />
@@ -54,12 +55,11 @@
       <item value="generate Questionnaire QR Code" />
       <item value="generate Questionnaire QR Code Without Auth Status" />
       <item value="syntax error, expect {, actual string, pos 2272, fastjson-version 1.2.76" />
-      <item value="前缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
