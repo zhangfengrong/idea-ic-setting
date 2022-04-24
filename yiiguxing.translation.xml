@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="471" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Reuse Address" />
       <item value="change the path of customer add" />
       <item value="is Short Message Frequency" />
       <item value="providers" />
@@ -54,18 +55,17 @@
       <item value="replace Tmp Url To Public Of Rich Text" />
       <item value="generate Questionnaire QR Code" />
       <item value="generate Questionnaire QR Code Without Auth Status" />
-      <item value="syntax error, expect {, actual string, pos 2272, fastjson-version 1.2.76" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650010782404" />
+    <option name="lastTrimTime" value="1650783448907" />
   </component>
 </application>
