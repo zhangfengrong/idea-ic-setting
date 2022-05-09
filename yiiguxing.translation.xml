@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="meeting" />
+      <item value="MEETING" />
       <item value="remit Channel" />
       <item value="Quota" />
       <item value="Request times of the app_key exceed the limit of current time window" />
@@ -52,19 +54,17 @@
       <item value="export" />
       <item value="未开始" />
       <item value="最早" />
-      <item value="clear" />
-      <item value="XECUTING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650783448907" />
+    <option name="lastTrimTime" value="1652088612261" />
   </component>
 </application>
