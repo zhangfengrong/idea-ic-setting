@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="position" />
+      <item value="the smallest value that can be returned, must be non-negative" />
       <item value="any Match" />
       <item value="Range" />
       <item value="coverage" />
@@ -52,13 +54,11 @@
       <item value="Absent" />
       <item value="obtain" />
       <item value="remainder" />
-      <item value="剩余" />
-      <item value="Sensitive Word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
