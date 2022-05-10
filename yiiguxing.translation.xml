@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="list-pending" />
+      <item value="进行中" />
+      <item value="progress-list" />
       <item value="mobile" />
       <item value="position" />
       <item value="the smallest value that can be returned, must be non-negative" />
@@ -51,14 +54,11 @@
       <item value="Folder" />
       <item value="replece" />
       <item value="replace" />
-      <item value="End With" />
-      <item value="Absent" />
-      <item value="obtain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="80" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
