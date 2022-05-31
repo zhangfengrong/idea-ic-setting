@@ -4,9 +4,9 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="操作人" />
       <item value="subtract" />
       <item value="排除" />
-      <item value="操作人" />
       <item value="eturns {@code true} iff the given {@link Collection}s contain exactly the same elements with exactly the same cardinalities. &lt;p&gt; That is, iff the cardinality of &lt;i&gt;e&lt;i&gt; in &lt;i&gt;a&lt;i&gt; is equal to the cardinality of &lt;i&gt;e&lt;i&gt; in &lt;i&gt;b&lt;i&gt;, for each element &lt;i&gt;e&lt;i&gt; in &lt;i&gt;a&lt;i&gt; or &lt;i&gt;b&lt;i&gt;." />
       <item value="is Equal Collection" />
       <item value="FAULT TOLERANCE TIME" />
@@ -57,7 +57,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="92" />
         <entry key="ENGLISH" value="92" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
