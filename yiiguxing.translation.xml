@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="of Nullable" />
       <item value="跳转" />
       <item value="real Auth Status" />
       <item value="认证" />
@@ -53,12 +54,11 @@
       <item value="Param" />
       <item value="pop" />
       <item value="Declared" />
-      <item value="All Analysed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
