@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="324" />
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="灰色" />
+      <item value="灰度" />
       <item value="refact" />
       <item value="of Nullable" />
       <item value="跳转" />
@@ -52,8 +54,6 @@
       <item value="providers" />
       <item value="transform" />
       <item value="转换" />
-      <item value="Param" />
-      <item value="pop" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653881605756" />
+    <option name="lastTrimTime" value="1654586595342" />
   </component>
 </application>
