@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Semblance" />
       <item value="Score" />
       <item value="分数" />
       <item value="sum Whole" />
@@ -53,12 +54,11 @@
       <item value="Quota" />
       <item value="Request times of the app_key exceed the limit of current time window" />
       <item value="Request times of the app_key exceed the limit of current time window&quot;" />
-      <item value="The name of the uploaded file, if any, as supplied by the browser or other client. Returns: The newly created file item." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CATALAN" value="4" />
         <entry key="MALAY" value="1" />
       </map>
