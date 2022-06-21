@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Some" />
       <item value="bitmask" />
       <item value="offe" />
       <item value="recognition" />
@@ -53,12 +54,11 @@
       <item value="the smallest value that can be returned, must be non-negative" />
       <item value="any Match" />
       <item value="Range" />
-      <item value="coverage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="MALAY" value="1" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655089643304" />
+    <option name="lastTrimTime" value="1655775354125" />
   </component>
 </application>
