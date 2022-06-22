@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="471" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="折扣系数" />
       <item value="restrict" />
       <item value="限制" />
       <item value="排除" />
@@ -54,12 +55,11 @@
       <item value="Sets the years field to a date returning a new object." />
       <item value="amount" />
       <item value="Now Time" />
-      <item value="list-pending" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="MALAY" value="1" />
