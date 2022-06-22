@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="813" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="TASK PACKAGE TIME INTERSECTION" />
       <item value="交叉" />
       <item value="排除" />
       <item value="get Value Field From Extra Fields" />
@@ -53,12 +54,11 @@
       <item value="进行中" />
       <item value="progress-list" />
       <item value="mobile" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="MALAY" value="1" />
