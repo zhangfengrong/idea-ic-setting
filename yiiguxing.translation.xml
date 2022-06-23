@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="471" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="批量" />
       <item value="sum Similarity" />
       <item value="get Semblance" />
       <item value="org" />
@@ -54,11 +55,10 @@
       <item value="FAULT TOLERANCE TIME" />
       <item value="容错时间" />
       <item value="操作" />
-      <item value="learn Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
+        <entry key="CHINESE" value="123" />
         <entry key="ENGLISH" value="123" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
