@@ -1,4 +1,4 @@
-<filetype binary="false" description="FreeMarker" name="FreeMarker">
+<filetype binary="false" default_extension="flt" description="FreeMarker" name="FreeMarker">
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="" />
