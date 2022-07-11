@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="471" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Whether to use scientific Format." />
       <item value="Meeting" />
       <item value="custom Template" />
       <item value="lack" />
@@ -54,12 +55,11 @@
       <item value="refact" />
       <item value="of Nullable" />
       <item value="跳转" />
-      <item value="real Auth Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="MALAY" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656929709171" />
+    <option name="lastTrimTime" value="1657508767598" />
   </component>
 </application>
