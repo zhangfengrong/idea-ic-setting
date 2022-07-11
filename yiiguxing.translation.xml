@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="471" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="card no" />
+      <item value="dealer Id" />
       <item value="Whether to use scientific Format." />
       <item value="Meeting" />
       <item value="custom Template" />
@@ -53,13 +55,11 @@
       <item value="灰色" />
       <item value="灰度" />
       <item value="refact" />
-      <item value="of Nullable" />
-      <item value="跳转" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="MALAY" value="1" />
